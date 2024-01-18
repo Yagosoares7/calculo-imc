@@ -1,2 +1,2 @@
 # calculo-imc
- Script que calcula o índice de massa corporal
+Mais um pequeno script concluído com sucesso! A função dele é calcular o IMC do usuário com base nos valores da altura e do peso que forem informados pelo próprio. As classificações são: 'baixo peso muito grave', 'baixo peso grave', 'baixo peso', 'peso normal', 'sobrepeso', 'obesidade grau I', 'obesidade grau II' e 'obesidade grau III'. Após informar os valores requiridos, o script fará os cálculos e exibir a seguinte mensagem: '<nome do usuario> possui índice de massa corporal igual a <resultado final do cálculo>, sendo classificado como: <classificação>.' Utilizei uma estrutura condicional encadeada para exibir a classificação conforme as condições estabelecidas.
